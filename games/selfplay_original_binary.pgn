@@ -1,0 +1,180 @@
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "1"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c6 3. Nf3 d5 4. Nc3 e6 5. e3 Bd6 6. Qc2 O-O 7. Bd3 dxc4 8. Bxc4 Nbd7 9. O-O b5 10. Bd3 Bb7 11. a3 Re8 12. h3 e5 13. Bd2 h6 14. Rfd1 Qe7 15. Nh4 Qe6 16. Nf5 Bf8 17. Ng3 exd4 18. exd4 c5 19. d5 Nxd5 20. Bxb5 N5b6 21. Re1 Qd6 22. Rad1 Rxe1+ 23. Bxe1 Qe6 24. Bf1 Nf6 25. a4 Nbd5 26. b3 Nb4 27. Qb1 Qb6 28. Bc4 Nc6 29. Nb5 Rd8 30. Rxd8 Qxd8 31. Qd3 Qxd3 32. Bxd3 Bc8 33. Ne4 Nd5 34. Bc4 Be6 35. Bd2 Ne5 36. Be2 Nc6 37. Bc4 Ne5 38. Bxd5 Bxd5 39. Nec3 Bxb3 40. Nxa7 Be6 41. Nab5 Nc4 42. Be1 Bd7 43. f3 f5 44. Nc7 Kf7 45. Bf2 Na5 46. Kf1 g5 47. Ke2 Bc6 48. Kd3 g4 49. hxg4 fxg4 50. fxg4 Bxg2 51. Ke2 Nc4 52. Na6 Ne5 53. Nxc5 Bf3+ 54. Kf1 Nxg4 55. N5e4 Bb4 56. Bb6 Kg6 57. a5 Nf6 58. Nxf6 Bxc3 59. Nd7 Bc6 60. Nc5 Kf5 61. Nb3 Bd5 62. Nd4+ Ke4 63. Nc2 Bxa5 64. Bxa5 Kf5 65. Nb4 Ke5 66. Kf2 Bb3 67. Ke3 Ke6 68. Kd2 Kd7 69. Kc3 Ba4 70. Bd8 Kxd8 71. Kd4 Bd7 72. Kd3 Be8 73. Nd5 Bf7 74. Ne3 Be8 75. Kc3 Bh5 76. Kd2 Bf3 77. Kd3 Ke7 78. Nf5+ Kf6 79. Nxh6 Kg6 80. Kc4 Kg7 81. Kb3 Kf6 82. Ka2 Bd1 83. Ka3 Ke5 84. Kb2 Bf3 85. Nf7+ Kd4 86. Ka3 Bh5 87. Ne5 Bd1 88. Nc4 Bh5 89. Kb4 Bf7 90. Ka4 Kc3 91. Ne5 Be6 92. Nc4 Kd4 93. Nd2 Bg8 94. Ka3 Bc4 95. Kb4 Bb3 96. Ka5 Bd5 97. Kb5 Ba2 98. Nf1 Bb3 99. Ka6 Be6 100. Nh2 Ba2 101. Ka7 Bb3 102. Nf1 Bd5 103. Nh2 Kc3 104. Kb8 Kb4 105. Ng4 Ka5 106. Nh2 Ba2 107. Kc8 Ka4 108. Nf1 Kb3 109. Kc7 Bb1 110. Ng3 Ka3 111. Kd8 Kb3 112. Nh1 Kc4 113. Nf2 Bc2 114. Nd1 Bd3 115. Nf2 Kb3 116. Kc8 Kb4 117. Nh3 Bf1 118. Ng5 Bc4 119. Ne6 Be2 120. Nf8 Bd3 121. Ne6 Kb3 122. Kc7 Bb5 123. Nd8 Be2 124. Nc6 Kc2 125. Nd4+ Kd2 126. Kc6 Ba6 127. Ne2 Bc4 128. Nc1 Bd5+ 129. Kb6 Kxc1 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "2"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10. Ng5 h6 11. Nge4 Be7 12. Rd1 Qc7 13. Be2 b6 14. b3 Bb7 15. Bb2 Rac8 16. Rac1 Rfd8 17. Nxf6+ Nxf6 18. Na4 Nd5 19. Qe4 Nf6 20. Qc2 Nd5 21. Qe4 Nf6 22. Qb1 Nd5 23. Bf3 a5 24. g3 Bg5 25. Qe4 Ba6 26. Kg2 Qa7 27. h3 Be7 28. Kg1 Qb8 29. Bg2 Bf8 30. Rd2 Rd7 31. Qe5 Qa7 32. Qh5 Rcd8 33. Kh2 Bb7 34. Rdd1 Ba6 35. Rd2 Bb7 36. Rdd1 Ba6 37. a3 g6 38. Qf3 Bg7 39. h4 h5 40. Qe4 Qb8 41. Qc2 Nf6 42. Kg1 Nd5 43. Re1 Rc7 44. Red1 Rcd7 45. Re1 Rc7 46. Qb1 Bb5 47. Nc3 Nxc3 48. Bxc3 c5 49. dxc5 Rxc5 50. Bxg7 Rxc1 51. Rxc1 Kxg7 52. Qb2+ e5 53. Bf3 Ba6 54. b4 axb4 55. axb4 Bc8 56. b5 Be6 57. Be4 Rd7 58. Kg2 Ra7 59. Rc6 Bd7 60. Rc2 Qd6 61. Rd2 Qf6 62. Qb4 Be6 63. Qc3 Ra4 64. Bd5 Qf5 65. e4 Qf6 66. Qb3 Rxe4 67. Bxe6 Qxe6 68. Qxe6 fxe6 69. Rd6 Rb4 70. Rxb6 e4 71. Kf1 Kf6 72. Rb8 e3 73. fxe3 Rb2 74. Ke1 Kf5 75. Kd1 Kg4 76. Kc1 Rb4 77. Kd2 Kxg3 78. Kc3 Rb1 79. Kc2 Rb4 80. Kc3 Rb1 81. Kc2 Rb4 82. Kc3 Rb1 83. Kc2 Rb4 84. Kc3 Rb1 85. Kc2 Rb4 86. Kc3 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "3"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Be7 7. d4 e4 8. Ne5 f5 9. Nxc6 bxc6 10. Qc2 Bd7 11. f3 exf3 12. Rxf3 O-O 13. Nc3 Rb8 14. Nxd5 cxd5 15. Bf4 Rb7 16. b4 c6 17. a3 a5 18. bxa5 Qxa5 19. Be5 Bf6 20. Bxf6 Rxf6 21. Rb1 Rxb1+ 22. Qxb1 Qd2 23. Qd3 Qxd3 24. Rxd3 Rf8 25. a4 Ra8 26. Ra3 Ra5 27. e3 Kf7 28. Bf3 Ke6 29. Bd1 Kd6 30. Kf2 c5 31. dxc5+ Kxc5 32. Ke2 Kb4 33. Rd3 Kc5 34. Ra3 Kb4 35. Rd3 Kc5 36. Rd4 Ra6 37. Bb3 Bc6 38. Bc2 g6 39. Kd2 Ra5 40. Bb3 Ra8 41. h3 Rb8 42. Rd3 Rb4 43. a5 Ba4 44. Bxd5 Bb5 45. Rb3 Ra4 46. Bg8 Ra2+ 47. Ke1 Rg2 48. Bxh7 Rxg3 49. Kf2 Rxh3 50. Bxg6 f4 51. Bf5 fxe3+ 52. Rxe3 Rxe3 53. Kxe3 Ba4 54. a6 Kb6 55. a7 Bc6 56. a8=R Bxa8 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "4"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Be2 O-O 8. O-O Re8 9. Rd1 Qe7 10. b3 b6 11. e4 Nxe4 12. Nxe4 dxe4 13. Qxe4 Bb7 14. Bf4 Bxf4 15. Qxf4 c5 16. Ne5 Nxe5 17. Qxe5 Rad8 18. dxc5 Qxc5 19. Qb2 e5 20. b4 Qe7 21. Bf1 h6 22. a4 e4 23. Qc3 f5 24. c5 bxc5 25. bxc5 Bc6 26. Rxd8 Rxd8 27. Bb5 Qe8 28. h4 Kh7 29. Rb1 Rc8 30. Bxc6 Qxc6 31. Rc1 Qxa4 32. c6 Qb5 33. c7 Qd5 34. Qa3 a5 35. Qe7 a4 36. Kh2 Qd2 37. Qe6 Qf4+ 38. g3 Qxf2+ 39. Kh3 Rxc7 40. Rxc7 Qf1+ 41. Kh2 Qf2+ 42. Kh3 Qf1+ 43. Kh2 Qf2+ 44. Kh1 Qf3+ 45. Kh2 Qf2+ 46. Kh1 Qf3+ 47. Kh2 Qf2+ 48. Kh3 Qf1+ 49. Kh2 Qf2+ 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "5"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 dxc4 4. e3 c5 5. Bxc4 a6 6. dxc5 Qxd1+ 7. Kxd1 e6 8. b4 a5 9. b5 Bxc5 10. Bb2 a4 11. Nbd2 b6 12. Rc1 Nbd7 13. Ne1 Be7 14. Ke2 O-O 15. Nd3 Bb7 16. f3 Rfc8 17. Rhd1 Rc7 18. Ne5 a3 19. Bd4 Rac8 20. e4 Kf8 21. g4 Bb4 22. g5 Bd6 23. Nxf7 Kxf7 24. gxf6 g5 25. h4 gxh4 26. Rh1 Bg3 27. Ke3 h5 28. Rhg1 Ne5 29. Rxg3 Nxc4+ 30. Nxc4 hxg3 31. Nd6+ Kg6 32. Rxc7 Rxc7 33. f7 Rxf7 34. Nxf7 Kxf7 35. Bxb6 e5 36. Bd8 Ke6 37. Bh4 g2 38. Kf2 Kd6 39. Bg5 Kc5 40. Bc1 Kxb5 41. Bxa3 Kc6 42. Kxg2 Ba6 43. Bb2 Kd6 44. a4 Be2 45. Kf2 Bc4 46. Bc3 h4 47. Kg2 Be2 48. a5 h3+ 49. Kg3 h2 50. Kxh2 Bxf3 51. Bd2 Ke7 52. Kg3 Bxe4 53. a6 Kd8 54. a7 Kd7 55. a8=R Bxa8 56. Bg5 Ke6 57. Bd8 Kd7 58. Bg5 Kd6 59. Bh4 Kc7 60. Bf6 Kd7 61. Bg5 Bh1 62. Kg4 Ke8 63. Bf6 Be4 64. Bh8 Bc2 65. Kh5 Bf5 66. Kg5 Bg4 67. Kf6 Bf5 68. Kxf5 Kf7 69. Kg5 Kf8 70. Kg4 Kf7 71. Kh4 Ke8 72. Kg3 Kf8 73. Bxe5 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "6"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1-0"]
+
+1. a4 Nf6 2. d4 e6 3. Nf3 c5 4. e3 Nc6 5. Bd3 b6 6. Nbd2 Be7 7. c3 d5 8. e4 dxe4 9. Nxe4 cxd4 10. Bb5 Bb7 11. Qxd4 O-O 12. Qxd8 Rfxd8 13. Nxf6+ Bxf6 14. O-O h6 15. Be2 Na5 16. Be3 Be4 17. Rfd1 Bc2 18. Rxd8+ Rxd8 19. Ne1 Bb3 20. Nf3 Bc2 21. Ne1 Be4 22. Nf3 Bd3 23. Kf1 Nc4 24. Bc1 g5 25. Bxd3 Rxd3 26. Ke2 Rd7 27. Rb1 Kg7 28. h3 Kg6 29. Be3 Rd5 30. Bc1 Nd6 31. Be3 Nc4 32. Bc1 Rd8 33. Be3 h5 34. Nd2 Nxe3 35. fxe3 g4 36. Ra1 Be7 37. Nc4 Rd5 38. hxg4 hxg4 39. Rd1 Rc5 40. Nd6 f5 41. Nb5 a6 42. Rd7 axb5 43. Rxe7 Kf6 44. Rb7 bxa4 45. Rxb6 Ra5 46. g3 Ra8 47. Rb4 Ke5 48. Kf2 a3 49. bxa3 Rxa3 50. Rd4 Rxc3 51. Rd2 Rc4 52. Ke2 Ke4 53. Rb2 e5 54. Ra2 Rb4 55. Rc2 Rb8 56. Ra2 Rh8 57. Ra4+ Kd5 58. Ra5+ Ke6 59. Ra6+ Kd5 60. Ra5+ Ke6 61. Ra6+ Ke7 62. Kf1 Rd8 63. Ke2 Rd6 64. Ra5 Ke6 65. Ra2 Rb6 66. Rd2 Rb7 67. Rd8 Rh7 68. Kf2 Rd7 69. Rf8 Rd2+ 70. Kf1 Rh2 71. Rd8 Rb2 72. Rd1 Rb7 73. Rd2 Rd7 74. Ra2 Rb7 75. Rd2 Rh7 76. Rd8 Rh2 77. Rd3 Rh3 78. Kf2 f4 79. exf4 exf4 80. Rd4 Rxg3 81. Rxf4 Ra3 82. Rb4 Kd5 83. Rf4 Kc5 84. Rxg4 Ra5 85. Ke1 Ra8 86. Kd1 Ra2 87. Kc1 Ra6 88. Rg3 Kb5 89. Rb3+ Ka4 90. Kb2 Ka5 91. Kc2 Rh6 92. Rb8 Rb6 93. Rg8 Rd6 94. Rg4 Rh6 95. Kb3 Rh7 96. Rg2 Rh3+ 97. Kc4 Ka6 98. Rg7 Rh1 99. Rg2 Ka5 100. Kc5 Ka6 101. Re2 Rh7 102. Rd2 Rh5+ 103. Kd6 Kb6 104. Rd3 Rh1 105. Rd2 Rb1 106. Ra2 Kb7 107. Rf2 Kb8 108. Ke5 Ka7 109. Ke4 Rb8 110. Kd4 Rb1 111. Rh2 Kb7 112. Rc2 Rf1 113. Kc4 Rh1 114. Rg2 Rd1 115. Rg8 Rb1 116. Re8 Kc6 117. Rh8 Rb7 118. Kd3 Kd5 119. Rh5+ Ke6 120. Kc3 Kf6 121. Rd5 Re7 122. Kd3 Rf7 123. Kc2 Rh7 124. Rd2 Kg6 125. Kb1 Rh8 126. Rc2 Rh4 127. Ra2 Rd4 128. Rg2+ Kf7 129. Rc2 Kg6 130. Rc7 Kh5 131. Kc2 Rd6 132. Rb7 Rf6 133. Ra7 Rf5 134. Kd1 Kh4 135. Ra4+ Kh5 136. Ke2 Rf4 137. Rxf4 Kg5 138. Rf7 Kg4 139. Kd3 Kg5 140. Rf8 Kg4 141. Kd4 Kg5 142. Rf3 Kg6 143. Ke5 Kg5 144. Rg3+ Kh4 145. Rg1 Kh3 146. Kf4 Kh2 147. Rg3 Kh1 148. Rg6 Kh2 149. Kf3 Kh1 150. Kf2 Kh2 151. Rh6# 1-0
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "7"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. a3 Re8 12. h3 e5 13. Bd2 h6 14. Rfd1 exd4 15. exd4 a6 16. b4 Qc7 17. Rac1 Nb6 18. Re1 Rad8 19. Rcd1 Nbd5 20. Ne4 Nxe4 21. Bxe4 Nf6 22. Bd3 Rxe1+ 23. Rxe1 Re8 24. Rc1 Qd8 25. Qb3 Nd5 26. Bb1 Nf4 27. Rd1 Qf6 28. Bxf4 Bxf4 29. Qc3 g6 30. Re1 Rxe1+ 31. Nxe1 Bc7 32. Nf3 Qe6 33. Kf1 Kg7 34. Bc2 Bb6 35. Bb3 Qf6 36. Qe3 Bc8 37. Ke2 Bd7 38. Qe4 Qd8 39. Qe3 f6 40. Nd2 Bf5 41. Nf3 g5 42. g4 Bg6 43. Qe6 Qe8 44. Qxe8 Bxe8 45. Kd3 Bd7 46. Nd2 h5 47. gxh5 Bxh3 48. Ne4 a5 49. h6+ Kxh6 50. Nxf6 Kg6 51. Ne4 Bf5 52. bxa5 Bxa5 53. Ke3 Bc7 54. Nc5 Kf6 55. a4 Ke7 56. axb5 cxb5 57. Bd5 Bf4+ 58. Kf3 Kd6 59. Ba2 Kc6 60. Bb3 Kb6 61. Ne6 Bc1 62. d5 Bb2 63. Nxg5 Kc5 64. Kf4 Bg6 65. Ne4+ Bxe4 66. Kxe4 Kd6 67. Kf5 Ke7 68. f4 Ba1 69. Kg6 Bd4 70. f5 Bc3 71. f6+ Bxf6 72. d6+ Kxd6 73. Kh7 Ke7 74. Kg8 Be5 75. Ba2 Bh8 76. Bd5 Ke8 77. Bg2 Ke7 78. Bf1 Ke6 79. Be2 Ba1 80. Bg4+ Kf6 81. Bf3 Kg5 82. Kf7 Kh4 83. Ba8 Bf6 84. Bb7 Kg3 85. Bc8 Kf3 86. Bh3 Ke4 87. Kf8 Kd4 88. Bf1 b4 89. Be2 b3 90. Bd1 b2 91. Bc2 Bh8 92. Kg8 b1=B 93. Ba4 Bg6 94. Bd7 Kd5 95. Bc8 Bc3 96. Bh3 Bh5 97. Bf5 Ke5 98. Bd3 Kf6 99. Kh7 Bg4 100. Bb1 Bh5 101. Bd3 Bf3 102. Bb1 Bh1 103. Kh6 Bf3 104. Kh7 Bh1 105. Bg6 Bd2 106. Bb1 Ke5 107. Kh8 Be4 108. Bxe4 Ke6 109. Kg8 Ba5 110. Kf8 Bb6 111. Bh7 Kd5 112. Bg8+ Kd6 113. Be6 Ba7 114. Bd7 Bg1 115. Kg7 Ke5 116. Kf7 Kf4 117. Bf5 Be3 118. Be4 Bd2 119. Ba8 Kg5 120. Be4 Kh6 121. Bh1 Be1 122. Bd5 Kh7 123. Bg2 Bf2 124. Kf6 Kh6 125. Bh1 Ba7 126. Kf7 Bc5 127. Bb7 Bg1 128. Bg2 Kh7 129. Ke6 Bd4 130. Be4+ Kh6 131. Bb7 Kg5 132. Kd7 Kg4 133. Bc6 Kf4 134. Bb5 Ke5 135. Kc6 Ke4 136. Bc4 Bb2 137. Bb5 Ke5 138. Kc5 Kf6 139. Ba4 Bc1 140. Kb6 Be3+ 141. Ka6 Kf7 142. Kb5 Kf6 143. Ka5 Bf4 144. Kb5 Bh6 145. Kb4 Kf7 146. Bb5 Be3 147. Ka4 Bg1 148. Bf1 Ke6 149. Bd3 Be3 150. Ka3 Ba7 151. Ka4 Bd4 152. Bc4+ Ke7 153. Bd3 Ke8 154. Ba6 Bc3 155. Bc8 Bh8 156. Bf5 Bg7 157. Bg4 Bh6 158. Kb3 Bf8 159. Kc2 Kf7 160. Bd7 Bg7 161. Be6+ Kf8 162. Kb3 Bh8 163. Kc2 Be5 164. Kb1 Bb2 165. Ba2 Ke7 166. Kxb2 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "8"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10. Ng5 h6 11. Nge4 Be7 12. Rd1 Qc7 13. Be2 b6 14. b3 Bb7 15. Bb2 Rac8 16. Rac1 Rfd8 17. Nxf6+ Nxf6 18. Na4 Nd5 19. Bf3 Nb4 20. Qb1 c5 21. Be2 Nd5 22. Bf3 Nb4 23. Be2 Nd5 24. Bf3 Nb4 25. dxc5 b5 26. Nb6 Bxf3 27. Nxc8 Bxd1 28. Nxe7+ Qxe7 29. Rxd1 Rxd1+ 30. Qxd1 Qxc5 31. h3 Qf5 32. Qd4 e5 33. Qxe5 Qxe5 34. Bxe5 Nxa2 35. Bb2 Nb4 36. Bc3 Nc6 37. Kf1 a5 38. Ke2 f6 39. e4 Kf7 40. f4 a4 41. bxa4 bxa4 42. Kd3 Nd8 43. f5 Ke8 44. Bb2 Nf7 45. Ba3 h5 46. Kd4 Ne5 47. Kc3 Nf7 48. Bc5 Kd7 49. Kd4 Nd6 50. Kd5 Nb5 51. Kc4 Kc6 52. Bf8 Nd6+ 53. Kb4 Nxe4 54. Bxg7 Kd5 55. g4 h4 56. Bh6 Nf2 57. g5 fxg5 58. Bxg5 Nxh3 59. Bxh4 Nf4 60. f6 Ng6 61. Bg5 a3 62. f7 a2 63. Bf6 Kd6 64. f8=Q+ Nxf8 65. Kb3 Kd7 66. Kxa2 Nh7 67. Bb2 Nf6 68. Bxf6 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "9"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10. Ng5 h6 11. Nge4 Be7 12. Rd1 Qc7 13. Be2 b6 14. b3 Bb7 15. Bb2 Rac8 16. Rac1 Rfd8 17. Nxf6+ Nxf6 18. Na4 Nd5 19. Bf3 Nb4 20. Qb1 c5 21. Be2 Nd5 22. Bf3 Nb4 23. Be2 Nd5 24. Bf3 Nb4 25. dxc5 b5 26. Nb6 Bxf3 27. Nxc8 Bxd1 28. Nxe7+ Qxe7 29. Rxd1 Rxd1+ 30. Qxd1 Qxc5 31. h3 Qf5 32. Qd4 e5 33. Qxe5 Qxe5 34. Bxe5 Nxa2 35. Bb2 Nb4 36. Bc3 Nc6 37. Kf1 a5 38. Ke2 f6 39. Kd3 Kf7 40. e4 g5 41. Bd2 Ne5+ 42. Kc2 a4 43. f4 axb3+ 44. Kxb3 Nd3 45. fxg5 fxg5 46. h4 Nc5+ 47. Kb4 Nxe4 48. hxg5 Nxd2 49. gxh6 Kg8 50. Kxb5 Kf8 51. Kc5 Kg8 52. Kd4 Nb1 53. Kd3 Kh7 54. Ke3 Kh8 55. h7 Na3 56. Kd4 Kxh7 57. Ke5 Kh6 58. Kf6 Nc2 59. Ke5 Kh5 60. g4+ Kg5 61. Kd5 Ne3+ 62. Ke4 Kh4 63. Kf3 Nc4 64. g5 Kxg5 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "10"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 Nbd7 7. Bd3 O-O 8. O-O dxc4 9. Bxc4 a6 10. Ng5 h6 11. Nge4 Be7 12. Rd1 Qc7 13. Be2 b6 14. b3 Bb7 15. Bb2 Rac8 16. Rac1 Rfd8 17. Nxf6+ Nxf6 18. Na4 Nd5 19. Qe4 Nf6 20. Qh4 Bd6 21. Qh3 a5 22. Bd3 Nd5 23. g3 Be7 24. e4 Nf6 25. Qf1 Ba8 26. Qe2 Qa7 27. Nc3 Bf8 28. h4 c5 29. Na4 Be7 30. dxc5 bxc5 31. Be5 c4 32. bxc4 Bc6 33. Nc3 Bc5 34. Bxf6 gxf6 35. Nb5 Qe7 36. Qg4+ Kh7 37. Qf4 Kg7 38. Bf1 a4 39. Bg2 Qb7 40. Kh2 Rxd1 41. Qg4+ Kh7 42. Rxd1 Bxb5 43. cxb5 Qxb5 44. Qh5 Kg7 45. Kh3 Qe8 46. Qg4+ Kh7 47. Qf4 Rd8 48. Rb1 Bd4 49. Qd2 Qe7 50. Qe2 Rg8 51. Bf3 Qa7 52. Kg2 Rb8 53. Rxb8 Qxb8 54. Bh5 Qa7 55. f4 Kg7 56. f5 exf5 57. exf5 a3 58. Qc4 Qd7 59. Bf3 Be5 60. Bd5 Qxf5 61. Qe4 Qd7 62. Bc4 h5 63. Qd3 Qg4 64. Bb3 f5 65. Bd1 Qb4 66. Qxf5 Qd2+ 67. Kh3 Qxd1 68. Qxe5+ Kf8 69. Qe4 Qd7+ 70. Kh2 Qd2+ 71. Qg2 Qd3 72. Qf2 Kg7 73. Qc5 Kg6 74. Qg5+ Kh7 75. Qxh5+ Kg7 76. Kh3 Qf1+ 77. Kh2 Qf2+ 78. Kh3 Qxa2 79. Qg5+ Kh8 80. Qh5+ Kg8 81. Qg5+ Kh7 82. Qf5+ Kh8 83. Qh5+ Kg8 84. Qg5+ Kf8 85. Qd8+ Kg7 86. Qg5+ Kf8 87. Qd8+ Kg7 88. Qg5+ Kh8 89. Qh5+ Kg7 90. Qg5+ Kh8 91. Qh5+ Kg8 92. Qg5+ Kh7 93. Qh5+ Kg8 94. Qg5+ Kf8 95. Qd8+ Kg7 96. Qg5+ 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "11"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. dxc5 d4 7. Na4 Bxc5 8. Nxc5 Qa5+ 9. Qd2 Qxc5 10. a3 Be6 11. b4 Qb6 12. Bb2 Rd8 13. e3 dxe3 14. Qxe3 Qxe3+ 15. fxe3 Nf6 16. Bb5 O-O 17. O-O Bd5 18. Bxf6 gxf6 19. Rac1 Kg7 20. Bxc6 Bxc6 21. Nd4 Be4 22. Rf4 Rfe8 23. Rc7 h5 24. Kf2 Re5 25. a4 Rde8 26. a5 f5 27. h3 Kg6 28. Rd7 f6 29. Rc7 R5e7 30. Rc3 Rd7 31. Kg3 a6 32. Kf2 Rde7 33. Rh4 Rd8 34. Rc5 Ree8 35. Rf4 Re5 36. Rc7 Rde8 37. Rh4 R5e7 38. Rxe7 Rxe7 39. Ne2 Rc7 40. Nf4+ Kf7 41. Rxh5 Rc2+ 42. Kg3 Kg7 43. Rh4 Rb2 44. Ne6+ Kf7 45. Nf4 Kg7 46. Ne6+ Kf7 47. Nf4 Kg7 48. Ne6+ Kf7 49. Nf4 Kg7 50. Kh2 Rxb4 51. Nh5+ Kg6 52. Nf4+ Kg7 53. Nh5+ Kg6 54. Nf4+ Kg7 55. Nh5+ Kg6 56. Nf4+ Kg7 57. Nh5+ Kf7 58. Ng3 Kg6 59. Nxe4 fxe4 60. Rg4+ Kf7 61. Rh4 Kg6 62. Rg4+ Kh7 63. Rh4+ Kg6 64. Rg4+ Kh7 65. Rh4+ Kg6 66. Rh8 Rb3 67. Kg3 Rxe3+ 68. Kf4 Ra3 69. Rg8+ Kf7 70. Rb8 Rb3 71. Kxe4 Rb4+ 72. Kf3 Rb2 73. h4 Rb5 74. g4 Rxa5 75. Rxb7+ Kg8 76. Kf4 Rd5 77. h5 a5 78. Rb6 Kg7 79. Rb7+ Kg8 80. Rb6 Kg7 81. Rb7+ Kg8 82. Ra7 Rc5 83. h6 Rg5 84. Ra6 Rg6 85. Kf5 Kh7 86. Kf4 Kxh6 87. Rxa5 Kh7 88. Ra8 Rg5 89. Ra4 Kg6 90. Rb4 Rc5 91. Re4 Rc8 92. Re2 Ra8 93. Rc2 Kh6 94. Ke3 Ra4 95. Kd3 Rf4 96. Ke2 Kg5 97. Ke3 Kxg4 98. Rc7 Kg3 99. Rg7+ Rg4 100. Rf7 Rf4 101. Rg7+ Rg4 102. Rf7 Rf4 103. Rg7+ Rg4 104. Rf7 Rb4 105. Rg7+ Kh3 106. Kf3 Kh4 107. Kf2 Rb5 108. Rf7 Kh5 109. Ke2 Rd5 110. Kf1 Kg6 111. Ra7 Rd2 112. Ra5 Rd8 113. Kg2 Rd6 114. Kf2 Rd4 115. Kf3 Rd8 116. Ra3 Rh8 117. Ra4 Kg5 118. Ra1 Kf5 119. Ra7 Rh1 120. Kf2 Kg6 121. Kg2 Rc1 122. Re7 Kf5 123. Re2 Rc4 124. Kh2 Ra4 125. Re1 Re4 126. Rd1 Ke6 127. Kh1 Ke5 128. Rf1 Ra4 129. Rc1 Ra3 130. Kg1 Kf4 131. Rc7 Kg3 132. Rg7+ Kh4 133. Kg2 Ra5 134. Kf3 Rf5+ 135. Ke3 Kh3 136. Rg1 Kh2 137. Rg7 Kh3 138. Rg6 Rf1 139. Rg8 Kh4 140. Rf8 f5 141. Rb8 Kh3 142. Rg8 Rc1 143. Kf3 Kh4 144. Ra8 Re1 145. Rc8 Kg5 146. Rf8 Rh1 147. Kg2 Rh7 148. Rd8 Rh4 149. Kf3 Rh3+ 150. Kf2 Kh4 151. Ra8 Rd3 152. Ra2 Rh3 153. Ra8 f4 154. Kg2 Rb3 155. Ra5 Rb6 156. Rd5 Rb7 157. Kf1 Kg3 158. Rf5 Rb3 159. Rf6 Kh2 160. Rxf4 Rh3 161. Kf2 Rb3 162. Rf6 Rc3 163. Rf5 Rc2+ 164. Ke1 Kh3 165. Rf4 Kh2 166. Rf3 Rc1+ 167. Kf2 Rc8 168. Ra3 Rc5 169. Ra7 Rh5 170. Ra1 Rh4 171. Ra6 Rh7 172. Rg6 Rh8 173. Rc6 Kh1 174. Kg3 Rg8+ 175. Kf2 Rf8+ 176. Ke3 Rd8 177. Kf2 Rf8+ 178. Kg3 Rg8+ 179. Kf2 Rf8+ 180. Ke3 Ra8 181. Kf2 Rf8+ 182. Kg3 Rg8+ 183. Kh4 Re8 184. Kg3 Rg8+ 185. Kh3 Kg1 186. Rc5 Rb8 187. Re5 Rb6 188. Re8 Rh6+ 189. Kg3 Rf6 190. Rd8 Kf1 191. Rd7 Rf8 192. Kh2 Kf2 193. Kh3 Ra8 194. Rd1 Ke2 195. Rb1 Kf3 196. Kh4 Ra6 197. Rb2 Kf4 198. Kh3 Kf3 199. Kh4 Kf4 200. Kh5 Ke4 201. Rh2 Kf3 202. Rb2 Ke4 203. Rb1 Ke5 204. Kh4 Kf4 205. Kh3 Kf3 206. Rb3+ Ke2 207. Kh4 Rf6 208. Kh5 Kf2 209. Kg5 Rf7 210. Kh6 Ra7 211. Rb6 Ke1 212. Rb5 Rb7 213. Rxb7 Kd2 214. Rd7+ Kc3 215. Kg5 Kc4 216. Kf5 Kc5 217. Ke4 Kc4 218. Rc7+ Kb5 219. Kd4 Kb4 220. Rb7+ Ka5 221. Kc5 Ka4 222. Rb1 Ka3 223. Kc4 Ka2 224. Rb3 Ka1 225. Rb7 Ka2 226. Kc3 Ka1 227. Kc2 Ka2 228. Ra7# 1-0
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "12"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 e6 3. g3 dxc4 4. Nf3 c5 5. Bg2 Nc6 6. Qa4 cxd4 7. Nxd4 Qxd4 8. Bxc6+ Bd7 9. Be3 Bxc6 10. Qxc6+ bxc6 11. Bxd4 Bb4+ 12. Kf1 Nf6 13. Kg2 O-O-O 14. e3 Rd5 15. Bxf6 gxf6 16. Rc1 Be7 17. Nc3 Ra5 18. Ne4 Rb5 19. Rab1 Rd8 20. Rxc4 f5 21. Nc3 Rb4 22. Rxb4 Bxb4 23. Ne2 Rd2 24. Nd4 Kc7 25. Kf1 Bc5 26. Nb3 Rc2 27. Rc1 Rxc1+ 28. Nxc1 Kd6 29. Ke2 Kd5 30. Kd3 e5 31. a3 e4+ 32. Kc3 Be7 33. Ne2 Bf6+ 34. Kb3 Kc5 35. Nc3 Be5 36. Kc2 Kc4 37. b3+ Kc5 38. Nb1 Kd5 39. Nc3+ Kc5 40. Nb1 Kd5 41. Nd2 c5 42. f4 Bf6 43. Nc4 Bg7 44. Kd2 h5 45. a4 a6 46. Na5 Bb2 47. Kc2 Bg7 48. Nc4 Bf6 49. Kd1 Bh8 50. Ke2 Bg7 51. Kd2 Bf6 52. Ke2 Bg7 53. Kf2 Bf6 54. Ke2 Bg7 55. Kd2 Bf6 56. Na5 Bd8 57. Nc4 Bf6 58. Kc1 Bg7 59. Kc2 Bf6 60. Na5 Bd8 61. Nc4 Bf6 62. Na5 Bd8 63. Nc4 Bf6 64. Kd2 Bg7 65. Na5 Bf6 66. Nc4 Bg7 67. Kc1 Bf6 68. Na5 Bd8 69. Nc4 Bf6 70. Kc2 Bg7 71. Na5 Bf8 72. Nc4 Bg7 73. Na5 Bf6 74. Nc4 Bg7 75. Kb1 Bf6 76. Kc1 Bg7 77. Na5 Bf6 78. Kd2 Bg7 79. Kd1 Bf6 80. Nc4 Bg7 81. Ke2 Bf6 82. Kf2 Bg7 83. h3 Bf6 84. Kf1 Bg7 85. Kf2 Bc3 86. Kf1 Bf6 87. Ke2 Ke6 88. Kf1 Kd5 89. Ke2 Bc3 90. Kf2 Bf6 91. Kf1 Bg7 92. Ke2 Ba1 93. Na5 Bf6 94. Kd2 Bd8 95. Nc4 Bf6 96. Na5 Bd8 97. Nc4 Bf6 98. Ke1 Ba1 99. Ke2 Bf6 100. Kf2 Bg7 101. Kf1 Bf6 102. Ke1 Ke6 103. Kd2 Kd5 104. Kc2 Kc6 105. Kd1 Ba1 106. Ke1 Kd5 107. Kd2 Bf6 108. Kd1 Bc3 109. Ke2 Ke6 110. Kf2 Kd5 111. Ke2 Bg7 112. Kf1 Bc3 113. Kf2 Bg7 114. Ke2 Bf6 115. Na5 Bc3 116. Nc4 Bf6 117. Kd2 Bg7 118. Na5 Bb2 119. Kc2 Ba3 120. Nc4 Bb4 121. Kd1 Bc3 122. Ke2 Bf6 123. Kf2 Bc3 124. Kf1 Ba1 125. Ke2 Bc3 126. Kd1 Ke6 127. Ke2 Kd5 128. h4 Kc6 129. Kf1 Kd5 130. Ke2 Bh8 131. Kf2 Bc3 132. Kf1 Bf6 133. Ke2 Bc3 134. Kd1 Kc6 135. Ke2 Kd5 136. Kd1 Bb4 137. Ke2 Bc3 138. Nb6+ Kc6 139. Nc4 Kd5 140. Kf2 Bf6 141. Ke2 Bc3 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "13"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Qc2 c6 7. Bg2 O-O 8. O-O Nbd7 9. Bf4 b6 10. Rd1 Ba6 11. Ne5 Rc8 12. Nc3 Bxc4 13. Nxc4 dxc4 14. e4 a6 15. a4 Re8 16. b3 cxb3 17. Qxb3 b5 18. e5 Nd5 19. Nxd5 cxd5 20. axb5 axb5 21. Qxb5 Rb8 22. Qc6 Rc8 23. Qb5 Rb8 24. Qe2 Bg5 25. Bxg5 Qxg5 26. h4 Qd8 27. Bf1 Nb6 28. Qg4 Nc4 29. Ra2 Ra8 30. Rc2 Ra4 31. Qf4 Rf8 32. Rdc1 h6 33. h5 Qa5 34. Kg2 Ra2 35. Rc3 Qa8 36. Bxc4 dxc4+ 37. Qf3 Qxf3+ 38. Rxf3 Rc8 39. Rfc3 Rd2 40. Rxc4 Rd8 41. Kf3 R2xd4 42. Rxd4 Rxd4 43. Rc7 Rd5 44. Kf4 f6 45. exf6 gxf6 46. Rb7 Rd8 47. Re7 Rd5 48. Rxe6 Kg7 49. Kg4 Rc5 50. f4 Rd5 51. Ra6 Rb5 52. Ra7+ Kg8 53. Rc7 Rd5 54. Rc2 Ra5 55. Rc7 Rb5 56. Ra7 Rd5 57. Re7 Ra5 58. Rd7 Rc5 59. Ra7 Rb5 60. Rd7 Rc5 61. Re7 Rb5 62. Ra7 Rd5 63. Rc7 Rb5 64. Rc6 Kg7 65. Ra6 Rd5 66. Rb6 Rc5 67. Ra6 Rb5 68. Rc6 Ra5 69. Rc7+ Kg8 70. Rb7 Rc5 71. Re7 Rb5 72. Rd7 Rc5 73. Rb7 Ra5 74. Re7 Rb5 75. Rc7 Ra5 76. Re7 Rb5 77. Re3 Ra5 78. Re6 Kg7 79. Rc6 Rb5 80. Rd6 Ra5 81. Re6 Kf7 82. Rd6 Rc5 83. Rb6 Rc7 84. Kf5 Rc5+ 85. Kg4 Kg7 86. Rb8 Kh7 87. Rd8 Kg7 88. Rd6 Kf7 89. Ra6 Kg7 90. Ra7+ Kg8 91. Rd7 Ra5 92. Rd6 Kg7 93. Re6 Kf7 94. Rd6 Rc5 95. Rd4 Kf8 96. Rd6 Kf7 97. Rd2 Ra5 98. Kh4 Rf5 99. Rd1 Kf8 100. g4 Rxf4 101. Kg3 Rb4 102. Rd7 Re4 103. Kf3 Re6 104. Kf4 Re5 105. Rd6 Ke7 106. Rb6 Ra5 107. Kf3 Ra8 108. Kf4 Ra5 109. Ke3 Rg5 110. Rb2 Rxg4 111. Kf3 Rg5 112. Ra2 Ke8 113. Ra1 Rxh5 114. Kg4 Re5 115. Kf3 Kd7 116. Rc1 Rh5 117. Kg4 Rh2 118. Ra1 Rb2 119. Kf5 Rb6 120. Rf1 Ke7 121. Re1+ Kf7 122. Rc1 Kg7 123. Rc2 h5 124. Kf4 Rb3 125. Rg2+ Kh6 126. Ra2 h4 127. Kg4 h3 128. Rc2 Kg6 129. Ra2 f5+ 130. Kf4 Kh5 131. Ra8 Rb2 132. Rh8+ Kg6 133. Rxh3 Rb4+ 134. Kf3 Rg4 135. Rh2 Ra4 136. Rb2 Kh7 137. Rg2 Rd4 138. Rh2+ Kg7 139. Re2 Rd7 140. Re1 Kh7 141. Re8 Rd5 142. Ke2 Kg7 143. Ke3 Rd1 144. Ke2 Rc1 145. Ra8 Kf6 146. Kf2 Kf7 147. Rb8 f4 148. Rb4 Kg6 149. Rb5 Kf6 150. Ra5 Rc4 151. Rb5 Rc3 152. Ra5 Ke6 153. Kg2 Kd6 154. Kf1 Rg3 155. Ra4 f3 156. Ra3 Rg4 157. Ra5 Rh4 158. Ra6+ Kd7 159. Kg1 Kc7 160. Ra5 Rd4 161. Ra7+ Kd8 162. Ra1 Rd3 163. Ra2 Rd6 164. Ra7 Ke8 165. Ra3 Rc6 166. Ra1 f2+ 167. Kh2 Ra6 168. Rc1 Rf6 169. Kg2 Rf4 170. Kf1 Kd8 171. Rc5 Kd7 172. Rd5+ Ke6 173. Rg5 Ke7 174. Rd5 Kf6 175. Rd1 Kg5 176. Rc1 Rf3 177. Kg2 Rf7 178. Rh1 Rf5 179. Kf1 Rf8 180. Kg2 Rf4 181. Ra1 Kg4 182. Rc1 f1=N 183. Rxf1 Kf5 184. Rd1 Ke6 185. Rf1 Rf5 186. Rc1 Kd5 187. Rh1 Kc5 188. Rh4 Rf7 189. Rh6 Kd4 190. Ra6 Ke3 191. Rd6 Ke2 192. Kh1 Kf2 193. Rd2+ Ke1 194. Ra2 Rf3 195. Ra6 Kf2 196. Kh2 Rf7 197. Kh3 Kf3 198. Kh2 Kf4 199. Ra1 Rd7 200. Ra3 Ke4 201. Rg3 Rf7 202. Ra3 Rf1 203. Ra5 Rf7 204. Kg2 Kd3 205. Ra1 Re7 206. Rh1 Ke2 207. Rh8 Rf7 208. Kg3 Rf1 209. Rh4 Rc1 210. Rh8 Rb1 211. Kh2 Kf3 212. Rh6 Rf1 213. Rd6 Re1 214. Rg6 Re8 215. Kh1 Kf2 216. Rh6 Re3 217. Kh2 Re8 218. Kh1 Rb8 219. Rf6+ Ke3 220. Rf5 Ke4 221. Rf2 Rb7 222. Kg1 Ke3 223. Rf8 Rb5 224. Rf6 Kd2 225. Re6 Rh5 226. Rc6 Rg5+ 227. Kh1 Ra5 228. Rc8 Ra7 229. Rh8 Rg7 230. Rh3 Rg8 231. Rf3 Rg7 232. Kh2 Re7 233. Rh3 Re4 234. Rb3 Re3 235. Rxe3 Kxe3 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "14"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "0-1"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Bd6 6. Qc2 O-O 7. Bd3 Nbd7 8. O-O dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. a3 Re8 12. h3 e5 13. Bd2 h6 14. Rfd1 exd4 15. exd4 a6 16. b4 Qc7 17. Rac1 Nb6 18. Re1 Rad8 19. Rcd1 Bc8 20. Qc1 Nbd5 21. Nxd5 cxd5 22. Ne5 Ne4 23. Qxc7 Bxc7 24. Nc6 Rd6 25. Rc1 Bb6 26. Bf4 Rde6 27. Re2 g5 28. Bh2 Kf8 29. Kf1 Nd6 30. Bxd6+ Rxd6 31. Na5 Bd7 32. Nb7 Rf6 33. Nc5 Bc8 34. Rxe8+ Kxe8 35. Be2 Ke7 36. Rd1 Rf4 37. Kg1 Kd6 38. Bh5 Rf6 39. Kf1 Rf4 40. Ke2 Be6 41. g3 Rf6 42. Rh1 Kc6 43. Bf3 Bxc5 44. dxc5 Kc7 45. Rd1 Bxh3 46. Bxd5 h5 47. f3 Be6 48. Bxe6 Rxe6+ 49. Kf2 a5 50. Re1 Ra6 51. Re7+ Kc8 52. Ke3 axb4 53. axb4 Ra4 54. Ke4 Rxb4+ 55. Kd5 h4 56. gxh4 Rxh4 57. c6 b4 58. Kd6 Rh6+ 59. Kc5 b3 60. Kb6 Rd6 61. Ra7 Kb8 62. Rxf7 Kc8 63. Ra7 Kb8 64. Rg7 Kc8 65. Rg8+ Rd8 66. Rxg5 b2 67. Rb5 Rf8 68. Rxb2 Rxf3 69. Rg2 Rb3+ 70. Ka7 Kc7 71. Ra2 Kc8 72. Ra1 Kc7 73. Ra6 Rb2 74. Ka8 Re2 75. Ka7 Rb2 76. Ka8 Re2 77. Ra3 Kb6 78. Rb3+ Kc7 79. Rb7+ Kc8 80. Ka7 Rh2 81. Rf7 Rh3 82. Kb6 Rb3+ 83. Ka7 Rh3 84. Kb6 Rb3+ 85. Ka7 Re3 86. Rf1 Re4 87. Kb6 Rb4+ 88. Ka7 Rc4 89. Kb6 Rb4+ 90. Ka7 Kc7 91. Ra1 Rb2 92. Ka8 Kc8 93. Ka7 Kc7 94. Ka8 Rf2 95. Ka7 Rf3 96. Ra6 Rb3 97. Ka8 Rc3 98. Ra7+ Kc8 99. Rb7 Rc1 100. Ka7 Re1 101. Rd7 Re6 102. Kb6 Re3 103. Rh7 Rb3+ 104. Ka6 Rf3 105. Kb6 Rb3+ 106. Kc5 Kd8 107. Kd6 Rd3+ 108. Kc5 Rf3 109. Kb6 Rb3+ 110. Ka6 Kc8 111. Rf7 Rc3 112. Rf6 Rg3 113. Kb6 Rb3+ 114. Ka5 Rd3 115. Kb6 Rb3+ 116. Ka5 Rd3 117. Kb6 Rb3+ 118. Kc5 Re3 119. Kd6 Rd3+ 120. Ke5 Rd1 121. c7 Rg1 122. Kd6 Kb7 123. Rf5 Rg6+ 124. Kd7 Rg7+ 125. Kd8 Rg8+ 126. Kd7 Rg7+ 127. Kd8 Rg8+ 128. Ke7 Rg7+ 129. Kd8 Rg8+ 130. Kd7 Rg7+ 131. Kd6 Rxc7 132. Rf4 Rc1 133. Rf3 Kc8 134. Rh3 Rc2 135. Rh5 Re2 136. Ra5 Re4 137. Re5 Rf4 138. Ke6 Rf2 139. Ke7 Rd2 140. Re3 Ra2 141. Kf7 Kd8 142. Rh3 Ra7+ 143. Kg8 Rb7 144. Rh6 Rb4 145. Rh3 Rb7 146. Rh5 Rb4 147. Re5 Rd4 148. Kf7 Rh4 149. Re8+ Kd7 150. Re5 Kd6 151. Rg5 Rc4 152. Kf6 Rc5 153. Rg3 Kd7 154. Rf3 Rc2 155. Rf5 Ke8 156. Rd5 Rc4 157. Kg5 Rc2 158. Rf5 Rd2 159. Rf3 Kd8 160. Kf5 Rg2 161. Rc3 Kd7 162. Rc4 Rb2 163. Kg5 Rb6 164. Ra4 Kd6 165. Kf5 Rb1 166. Rd4+ Kc7 167. Re4 Kd6 168. Kg6 Kd5 169. Re3 Rb5 170. Re8 Rb3 171. Re2 Ra3 172. Re8 Rf3 173. Kh6 Ra3 174. Re7 Kd6 175. Re4 Ra6 176. Re3 Ra2 177. Re8 Rc2 178. Re3 Ra2 179. Rg3 Kd7 180. Rg5 Ra6+ 181. Kg7 Re6 182. Rf5 Ke8 183. Kg8 Ke7 184. Rf7+ Ke8 185. Re7+ Rxe7 186. Kh8 Kf7 187. Kh7 Re6 188. Kh8 Rh6# 0-1
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "15"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Bf1 Be7 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Ne8 13. c3 d5 14. Nd2 c6 15. h3 Bf5 16. Qe3 Nd6 17. g4 Bg6 18. Re1 h6 19. Nf3 a5 20. Ne5 Bh7 21. Bd3 a4 22. Bxh7+ Kxh7 23. Nd3 Kg8 24. Bxd6 Qxd6 25. Kg2 b6 26. Qg3 Qd8 27. Ne5 Rc8 28. Qd3 Qc7 29. Nf3 g6 30. Qe3 Kg7 31. h4 Rh8 32. b3 b5 33. b4 Qd6 34. a3 Qc7 35. Re2 Qb8 36. Kf1 Qd6 37. Re1 Qb8 38. h5 gxh5 39. gxh5 Qc8 40. Ne5 Rg8 41. Qf3 Bxe5 42. Rxe5 Qd7 43. Ke1 f6 44. Re3 Kf7 45. Qf4 Rg5 46. Qh2 Rg8 47. Kd2 Re8 48. Rxe8 Qxe8 49. Qf4 Qe4 50. Qxh6 Qf5 51. Ke2 Qe4+ 52. Qe3 Qc2+ 53. Ke1 Qb1+ 54. Ke2 Qc2+ 55. Ke1 Qb1+ 56. Ke2 Qc2+ 57. Kf3 Qf5+ 58. Kg3 Qxh5 59. Qf4 Qg6+ 60. Qg4 Qd3+ 61. Qf3 Qc2 62. Kg2 Qc1 63. Qh5+ Ke7 64. Qh7+ Ke6 65. Qh3+ Ke7 66. Qg3 Ke6 67. Qg4+ Ke7 68. Qg7+ Ke6 69. Qg4+ Ke7 70. Qg3 Ke6 71. Qg4+ Kd6 72. Qg6 Qxa3 73. Qxf6+ Kd7 74. Qf5+ Kd8 75. Qg5+ Kc8 76. Qg4+ Kb8 77. Qf4+ Kb7 78. Qf7+ Kb6 79. Qf8 Qc1 80. Qd8+ Ka6 81. c4 bxc4 82. Qc8+ Kb6 83. Qb8+ Ka6 84. Qc8+ Kb6 85. Qb8+ Ka6 86. Qc8+ Kb6 87. Qb8+ Ka6 88. Qc8+ Kb6 89. Qb8+ Ka6 90. Qc8+ 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "16"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nf6 5. e3 Nc6 6. Bb5 Bg4 7. Nf3 e6 8. O-O Bd6 9. Bxc6+ bxc6 10. Bxd6 Bxf3 11. Qxf3 Qxd6 12. Rc1 O-O 13. Nd2 Nd7 14. Rc3 c5 15. dxc5 Nxc5 16. Qd1 Nd7 17. Rac1 a5 18. Nf3 Ne5 19. Nd4 a4 20. h3 h6 21. Qc2 Qb8 22. b3 axb3 23. axb3 Re8 24. Rc5 Qb4 25. Rc7 Qb8 26. Rc3 Qb6 27. Rc7 Ra7 28. Rc3 Raa8 29. Rc7 Qb8 30. Rc5 Qb4 31. Rb1 Nd7 32. Rc7 Nf6 33. Rc1 Ne4 34. Nc6 Qd6 35. Nd4 Reb8 36. Qb2 Qa3 37. Qxa3 Rxa3 38. Re7 Ra2 39. f3 Nd6 40. Rcc7 Rba8 41. Rcd7 Rb2 42. Rxd6 Raa2 43. Kh1 Rxg2 44. Rc6 Rh2+ 45. Kg1 Rag2+ 46. Kf1 Rb2 47. Kg1 Rbg2+ 48. Kf1 Rd2 49. Kg1 Rhg2+ 50. Kh1 Rh2+ 51. Kg1 Rdg2+ 52. Kf1 Rd2 53. Kg1 Rdg2+ 54. Kf1 Rf2+ 55. Kg1 Rhg2+ 56. Kh1 Rh2+ 57. Kg1 h5 58. f4 Rfg2+ 59. Kf1 Rb2 60. Kg1 Rbg2+ 61. Kf1 Ra2 62. Kg1 Rag2+ 63. Kf1 Rf2+ 64. Kg1 Rfg2+ 65. Kf1 Rf2+ 66. Kg1 Rfg2+ 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "17"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Bf4 a6 6. Nf3 Nc6 7. Rc1 Bf5 8. e3 e6 9. Be2 Be7 10. O-O O-O 11. Na4 Ne4 12. h3 Rc8 13. Nd2 Bd6 14. Bxd6 Nxd6 15. Qb3 h6 16. Qb6 Qe7 17. Nc5 e5 18. Ncb3 e4 19. Bxa6 Bxh3 20. gxh3 Qd7 21. Kh2 bxa6 22. Nc5 Qf5 23. Qxa6 Rfd8 24. Qe2 Nb4 25. f3 Nd3 26. Rc3 Qh5 27. Rg1 Nxc5 28. dxc5 Nc4 29. Qg2 g6 30. Nxc4 dxc4 31. f4 Qxc5 32. Qxe4 Re8 33. Qd4 Qc6 34. Rg2 Red8 35. Qe5 Rd3 36. Rxd3 cxd3 37. Qd4 Qa6 38. a4 Rc1 39. Qd8+ Kg7 40. Qd4+ Kg8 41. Qd8+ Kg7 42. Qd4+ Kh7 43. Qd5 Qc4 44. Qxc4 Rxc4 45. Kg3 Rxa4 46. Rd2 Rb4 47. Rxd3 Rxb2 48. Rd5 Rb7 49. Re5 f6 50. Re6 Kg7 51. Rd6 Re7 52. Kf3 Kf7 53. Rd4 Kg7 54. e4 Rf7 55. Rd8 Ra7 56. e5 fxe5 57. fxe5 Ra3+ 58. Ke4 Rxh3 59. Rd7+ Kg8 60. Kd5 Kf8 61. Rh7 h5 62. e6 Rc3 63. e7+ Ke8 64. Kd6 Rd3+ 65. Ke6 Re3+ 66. Kd6 Rd3+ 67. Ke6 Re3+ 68. Kd6 Rd3+ 69. Ke6 Re3+ 70. Kd6 Rd3+ 71. Ke6 Re3+ 72. Kf6 Kd7 73. Kxg6 Ke8 74. Kf5 Re2 75. Kf6 Kd7 76. Rxh5 Rxe7 77. Rh6 Kd6 78. Rh4 Re1 79. Rh5 Rc1 80. Re5 Rc2 81. Rh5 Kd7 82. Rh4 Rb2 83. Rf4 Rb3 84. Rd4+ Kc6 85. Ke7 Rb2 86. Rg4 Kc5 87. Rg3 Kb5 88. Ke6 Rb1 89. Kd5 Ka4 90. Rg8 Rb2 91. Kc4 Rb4+ 92. Kc5 Rb1 93. Kc4 Rc1+ 94. Kd4 Rf1 95. Kc4 Ka5 96. Rd8 Re1 97. Rg8 Re2 98. Kd3 Re6 99. Rc8 Rh6 100. Rc3 Kb4 101. Rc7 Ka5 102. Rb7 Rb6 103. Rh7 Rd6+ 104. Kc4 Rd8 105. Kc5 Ka6 106. Kc4 Ka5 107. Kc5 Ka4 108. Rh2 Rc8+ 109. Kd6 Re8 110. Kd7 Rg8 111. Rh7 Ra8 112. Ke6 Ra5 113. Rc7 Ra6+ 114. Ke7 Rb6 115. Rc2 Kb3 116. Rf2 Ra6 117. Ke8 Ra2 118. Rxa2 Kxa2 1/2-1/2
+
+[Event "Leela with Original Binary"]
+[Site "Local"]
+[Date "2025.01.28"]
+[Round "18"]
+[White "LeelaZero_White"]
+[Black "LeelaZero_Black"]
+[Result "1/2-1/2"]
+
+1. d4 Nf6 2. c4 c6 3. e3 d5 4. Nf3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Bd2 Nbd7 8. Nxg6 hxg6 9. Bd3 dxc4 10. Bxc4 Be7 11. Qf3 O-O 12. h4 c5 13. Bb3 Qb6 14. O-O-O cxd4 15. exd4 Qxd4 16. Be3 Qe5 17. g4 Rac8 18. Kb1 Rxc3 19. bxc3 Qxc3 20. Rd2 Nc5 21. Rc2 Qe5 22. Bxc5 Bxc5 23. g5 Ne4 24. h5 Nxg5 25. Qxb7 gxh5 26. f4 Qe4 27. Qxe4 Nxe4 28. Re1 Nf2 29. Rxc5 Nd3 30. Rec1 Nxc5 31. Rxc5 g6 32. Rc7 a5 33. Kc2 Rd8 34. Ra7 h4 35. Rxa5 Kg7 36. Re5 Kf6 37. Kc3 h3 38. Bc2 Rc8+ 39. Kd2 Rd8+ 40. Kc3 Rc8+ 41. Kd2 Rd8+ 42. Bd3 Ra8 43. Bb1 Rd8+ 44. Bd3 Ra8 45. Bb1 Rd8+ 46. Bd3 Ra8 47. Bc4 Rd8+ 48. Bd3 Ra8 49. Bc4 Rd8+ 50. Bd3 1/2-1/2
+
