@@ -18,6 +18,6 @@ Based on the playing style and progress in strength of the leela queen odds netw
 
 A final note: Although a lot of the above points are heavily influenced by the discussions and results shared in the Leela Chess Zero discord channel, the above are purely and completely my own opinions and beliefs and none of them necessarily reflect those of its members or have even been expressed in the server. So they may be heavily biased and are subject to change frequently.
 
-Link to the Leela Chess Zero discord Community:
+Link to the Leela Chess Zero website:
 
 https://lczero.org/
